@@ -1,1 +1,1 @@
-# wordpress_projetc
+# wordpress_project
